@@ -18,6 +18,7 @@
 
 # Technologies
 ![C#](https://img.shields.io/badge/C%20Sharp-336699?style=for-the-badge&logo=C-Sharp)
+![AZURE](https://img.shields.io/badge/azure-336699?style=for-the-badge&logo=azure)
 ![DotNetFramework](https://img.shields.io/badge/.Net%20Framework-%230A0FFF.svg?style=for-the-badge&logo=.Net&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
